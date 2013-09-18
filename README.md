@@ -1,6 +1,7 @@
-huffman
 Jason Wilkin
 1/21/13
+
+huffman
 =======
 
 A c++ huffman encoder and decoder
